@@ -1,3 +1,3 @@
 # Secret-Message-Sharing
 
-Small frontend Project to share encrypt messages
+Small project to share base64 encode messages
